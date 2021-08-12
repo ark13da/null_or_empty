@@ -15,7 +15,7 @@ jobs:
       - name: Install 🔧
         run: npm install
 
-      - name: Lint 🧐 :rofl: 
+      - name: Lint 🧐 🤣
         run: npm run lint
 
       - name: Build 🏗️
